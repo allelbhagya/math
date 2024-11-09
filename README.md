@@ -1,13 +1,12 @@
 # math
 
-- [ ]  Matrices and Vectors (Linear Algebra)
+- [ ]  Matrices and Vectors
 - [ ]  Matrix Multiplication
 - [ ]  Eigenvalues and Eigenvectors
-- [ ]  Derivatives and Partial Derivatives (Calculus)
-- [ ]  Chain Rule (Calculus)
-- [ ]  Gradient Descent (Optimization)
+- [ ]  Derivatives and Partial Derivatives
+- [ ]  Chain Rule
+- [ ]  Gradient Descent
 - [ ]  Basic Probability Theory
 - [ ]  Probability Distributions (Gaussian, Binomial, etc.)
 - [ ]  Bayes' Theorem
 - [ ]  Hypothesis Testing
-- [ ]  Descriptive Statistics (mean, variance, etc.)
